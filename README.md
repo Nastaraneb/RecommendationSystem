@@ -4,7 +4,7 @@ Group-Based Sequential Hybrid Aggregation Model for Movie Recommendations
 This project applies a sequential hybrid aggregation model to generate personalized movie recommendations for user groups.
 Using the MovieLens dataset, it explores various user-based and group-based recommendation techniques to enhance user satisfaction and reduce disagreement among group members.
 
-Features
+##Features
 1.Data Processing: Downloads and processes the MovieLens dataset, 
 
 2.dividing it into subsets for testing recommendations at different iterations.
